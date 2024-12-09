@@ -1,0 +1,1 @@
+This project is an analysis of the top 1000 movies on the IMDB website (www.imdb.com) by rating. In the project, we conduct data analysis to create a model that can best predict the Lifetime Gross Revenue of a movie. 
